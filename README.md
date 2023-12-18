@@ -87,6 +87,6 @@ Traffic can be filtered for specific protocols i.e. SSH, RDH, DNS, and ICMP. Fil
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To finish off the lab, close your remote desktop connection and delete the resource group and all Virtual Machines within.
+To finish off this project, close your remote desktop connection and delete the resource group and all Virtual Machines within.
 </p>
 <br />
